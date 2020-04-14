@@ -1,0 +1,179 @@
+/* First section content */
+section {
+  margin-right: 24%;
+  margin-left: 24%;
+  margin-top: 10rem;
+  margin-bottom: 4rem;
+}
+
+p {
+  margin-bottom: 0px;
+}
+
+.messag {
+  text-align: center;
+  font-family: 'Seymour One', sans-serif;
+  font-size: 1rem;
+}
+
+.icon1 {
+  margin: 20px 10px;
+  color: black;
+}
+
+.icon1:hover {
+  color: #c70d3a;
+}
+
+#footer {
+  position: relative;
+  text-align: center;
+  padding: 0 0;
+  background-color: #f4f4f4;
+  top: 5%;
+}
+
+.container-fluid {
+  padding-left: 0px;
+      padding-right: 0px;
+}
+
+.container {
+  text-align: justify;
+}
+
+body {
+  text-align: justify;
+  line-height: 2;
+}
+
+.flag1 {
+  margin-top: 5%;
+}
+
+.flag2 {
+  margin-bottom: 2%;
+  height: 10%;
+  width: 100%;
+}
+
+.middleText {
+  font-family: 'Montaga', serif;
+}
+
+.textNumb2{
+      margin-bottom: 2%;
+}
+
+.nav-link {
+  font-family: 'Lilita One', cursive;
+}
+
+.navbar {
+  padding-right: 23.3%;
+  padding-left: 24%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+
+.navBar-Logo {
+  font-family: 'Lilita One', cursive;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  color: #192965;
+}
+
+.fixedNav{
+  background-color: #ffffff;
+
+}
+
+.columnleft {
+  font-family: 'Seymour One', sans-serif;
+}
+
+.LeftCh{
+  margin-top: 0px;
+   padding-top: 13%;
+   word-spacing: 1px;
+}
+
+.columnright {
+    text-align: justify;
+}
+
+.row {
+  margin: 15px 0px;
+}
+
+.breadcrumb{
+  background-color: #ffffff;
+}
+
+.border-bottom{
+  border-bottom
+}
+
+.title{
+  text-align: center;
+  font-family: 'Seymour One', sans-serif;
+  font-size: 3rem;
+  padding-top: 1%;
+    padding-bottom: 1%;
+    color: #192965;
+}
+
+.right {
+  float: right;
+}
+
+.line1 {
+  margin-top: 0px;
+  border-top-width: 2px;
+}
+
+.mP2Holidays {
+  margin-left: 13%;
+  line-height: normal;
+}
+
+h7 {
+    margin-left: 4%;
+}
+
+.space {
+  height: 679px;
+}
+
+.Subtn {
+  border-style: solid;
+}
+
+.Subtn:hover {
+  background-color: #6c757d;
+}
+
+h3{
+  font-family: Calibri;
+  font-size: 25pt;
+  font-style: normal;
+  font-weight: bold;
+  color:SlateBlue;
+  text-align: center;
+  text-decoration: underline
+}
+
+ table{
+  font-family: Calibri;
+  color:black;
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+  text-align:;
+  border-collapse: collapse;
+}
+table.inner{
+  border: 0px
+}
